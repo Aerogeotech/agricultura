@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+      <GroundOverlay>
+        <Icon>
+          <href>FincaPteBirris_Orthomosaic_export_FriMay29151439.588923.jpg</href>
+        </Icon>
+        <LatLonBox>
+          <north>9.924888888888889</north>
+          <south>9.921508333333334</south>
+          <east>-83.79066666666667</east>
+          <west>-83.79478333333333</west>
+        </LatLonBox>
+        <name>FincaPteBirris_Orthomosaic_export_FriMay29151439.588923.jpg</name>
+        <drawOrder>1</drawOrder>
+      </GroundOverlay>
+  </Document>
+</kml>
